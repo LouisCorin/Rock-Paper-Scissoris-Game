@@ -1,2 +1,2 @@
 # Rock-Paper-Scissoris-Game
-Rock-Paper-Scissors This page is an interactive version of the game Rock Paper Scissors, the user can decide at which score the game ends and then play against an AI (random). All the action are animated and there's a scoreboard that takes note of the user score the pc score and the actual round. There are also various comments for every round.I'ts also possible to play from a tablet or a mobile phone
+Rock-Paper-Scissors This page is an interactive version of the game Rock Paper Scissors, the user can decide at which score the game ends and then play against an AI (random). The code was inspired from different resorces from across the web. It was not necessary to commit often considering that I included the pseudocode in the java script.
